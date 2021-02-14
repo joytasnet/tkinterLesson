@@ -1,4 +1,6 @@
-![sakuma_fortune](https://user-images.githubusercontent.com/74003343/107875369-ce7f5080-6f02-11eb-84c1-a1cd080113cb.png)  
+![sakuma_fortune0](https://user-images.githubusercontent.com/74003343/107876397-2325ca00-6f09-11eb-8205-74ab33379ca9.png)
+![sakuma_fortune1](https://user-images.githubusercontent.com/74003343/107876402-2faa2280-6f09-11eb-85c5-6bbc61a32a78.png)
+![sakuma_fortune2](https://user-images.githubusercontent.com/74003343/107876411-3fc20200-6f09-11eb-95f0-6edbfca08fd5.png)
 上の画像のように誕生日を入力して占うボタンを押すと  
 本人の星座とその日の運勢が表示されるプログラムを作ってください。  
 運勢は4段階。存在しない日付の処理はお任せします。  

@@ -13,3 +13,10 @@
 img = tk.PhotoImage("ああああ.png")  
 img = img.subsample(2)  
 のようにすると良い感じのサイズになると思います
+
+# 例
+
+![例1](https://user-images.githubusercontent.com/73979965/107907871-2025ea80-6f98-11eb-882f-833d6077c0b7.png)  
+![例2](https://user-images.githubusercontent.com/73979965/107907876-21efae00-6f98-11eb-8aea-3b42e72c849e.png)  
+![例3](https://user-images.githubusercontent.com/73979965/107908265-fc16d900-6f98-11eb-9384-7be2b402c2db.png)  
+![例4](https://user-images.githubusercontent.com/73979965/107907885-25833500-6f98-11eb-97f3-aef0225cc4ea.png)  

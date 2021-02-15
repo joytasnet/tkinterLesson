@@ -20,3 +20,5 @@ img = img.subsample(2)
 ![例2](https://user-images.githubusercontent.com/73979965/107907876-21efae00-6f98-11eb-8aea-3b42e72c849e.png)  
 ![例3](https://user-images.githubusercontent.com/73979965/107908265-fc16d900-6f98-11eb-9384-7be2b402c2db.png)  
 ![例4](https://user-images.githubusercontent.com/73979965/107908588-bf97ad00-6f99-11eb-9c16-1b9a76269248.png)  
+
+自分で問題作って自分で解くのは虚しいですが、問題の内容を自分の覚えたい英単語にすれば使えるかもしれません

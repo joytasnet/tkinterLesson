@@ -1,12 +1,17 @@
 # 宝探しゲーム  
 
 ## メイン画面  
-![]( "メイン")  
+<img width="600" alt="メイン" src="https://user-images.githubusercontent.com/73979907/107905509-231ddc80-6f92-11eb-8386-74288aaa7230.png">  
+<br>
 * 内容  
  * 10個の宝箱ボタンを表示させます。  
-![]( "はずれ")  
+ <br>
+<img width="600" alt="はずれ" src="https://user-images.githubusercontent.com/73979907/107905483-11d4d000-6f92-11eb-8602-41c0f7758482.png">  
+<br>
  * 外れたら空の宝箱、当たればお宝山盛りの宝箱を表示させます。  
-![]( "あたり")  
+ <br>
+<img width="600" alt="あたり" src="https://user-images.githubusercontent.com/73979907/107905503-1dc09200-6f92-11eb-8407-2e439acf47aa.png">  
+<br>
 
 ## 重要  
 今回の内容については、自己学習の内容を含みます。  
